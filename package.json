@@ -1,0 +1,23 @@
+{
+  "name": "google_home",
+  "version": "1.0.0",
+  "description": "Coach Agile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "google_home"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "moment": "^2.22.2",
+    "node-uuid": "^1.4.8",
+    "request": "^2.88.0",
+    "sync-request": "^6.0.0"
+  }
+}
